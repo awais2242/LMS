@@ -1,0 +1,9 @@
+﻿  Source.cpp
+E:\2nd semester\OOP Project\OOP Project\OOP Project\Source.cpp(883,93): warning C4129: ' ': unrecognized character escape sequence
+E:\2nd semester\OOP Project\OOP Project\OOP Project\Source.cpp(1390,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\2nd semester\OOP Project\OOP Project\OOP Project\Source.cpp(1444): warning C4715: 'resolving::search_Student': not all control paths return a value
+E:\2nd semester\OOP Project\OOP Project\OOP Project\Source.cpp(1462): warning C4715: 'resolving::search_teacher': not all control paths return a value
+E:\2nd semester\OOP Project\OOP Project\OOP Project\Source.cpp(1480): warning C4715: 'resolving::search_course': not all control paths return a value
+E:\2nd semester\OOP Project\OOP Project\OOP Project\Source.cpp(1308): warning C4715: 'resolving::password_student': not all control paths return a value
+E:\2nd semester\OOP Project\OOP Project\OOP Project\Source.cpp(1324): warning C4715: 'resolving::password_teacher': not all control paths return a value
+  OOP Project.vcxproj -> E:\2nd semester\OOP Project\OOP Project\Debug\OOP Project.exe
